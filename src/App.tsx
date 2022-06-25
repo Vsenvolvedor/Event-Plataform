@@ -1,9 +1,9 @@
+import { Event } from "./pages/Event"
+
 function App() {
 
   return (
-    <ul>
-    
-    </ul>
+    <Event />
   )
 }
 
